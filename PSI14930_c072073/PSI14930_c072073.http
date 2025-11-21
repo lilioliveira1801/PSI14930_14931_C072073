@@ -1,0 +1,6 @@
+@PSI14930_c072073_HostAddress = http://localhost:5126
+
+GET {{PSI14930_c072073_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
